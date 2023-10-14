@@ -11,6 +11,11 @@
          <changefreq>daily</changefreq>
     </url>
     <url>
+         <loc>https://genapi.org/functions/molecule-inventor-with-gpt4-functions/</loc>
+         <lastmod>2023-10-14</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
          <loc>https://genapi.org/functions/openai-functions-with-climate-apis/</loc>
          <lastmod>2023-10-14</lastmod>
          <changefreq>daily</changefreq>
