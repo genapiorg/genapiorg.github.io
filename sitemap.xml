@@ -2,37 +2,42 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
     <url>
          <loc>https://genapi.org/</loc>
-         <lastmod>2023-10-15</lastmod>
+         <lastmod>2023-12-12</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://genapi.org/tags/</loc>
-         <lastmod>2023-10-15</lastmod>
+         <lastmod>2023-12-12</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://genapi.org/functions/molecule-inventor-with-gpt4-functions/</loc>
-         <lastmod>2023-10-15</lastmod>
+         <lastmod>2023-12-12</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://genapi.org/functions/openai-functions-with-climate-apis/</loc>
-         <lastmod>2023-10-15</lastmod>
+         <lastmod>2023-12-12</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://genapi.org/functions/openai-functions-with-render-apis/</loc>
-         <lastmod>2023-10-15</lastmod>
+         <lastmod>2023-12-12</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://genapi.org/functions/openai-functions/</loc>
-         <lastmod>2023-10-15</lastmod>
+         <lastmod>2023-12-12</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://genapi.org/transformers/huggingface-gen-ai-dev-setup-on-mac/</loc>
+         <lastmod>2023-12-12</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://genapi.org/tags/</loc>
-         <lastmod>2023-10-15</lastmod>
+         <lastmod>2023-12-12</lastmod>
          <changefreq>daily</changefreq>
     </url>
 </urlset>
